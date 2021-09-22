@@ -10,3 +10,4 @@ kekurangan :
 - ketika button restart di pencet burung tidak bisa di lontarkan
 
 maaf kak tidak bisa maksimal, soalnya banyak revisi tugas lain.
+kalau sempat saya coba revisi.
